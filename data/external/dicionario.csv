@@ -1,0 +1,18 @@
+"Variável";"Significado";"Tipo";"Subtipo"
+"instant";"índice do registro";"Quantitativa";"Discreta";
+"dteday";"data";"Qualitativa";"Ordinal";
+"season";"estação";"Qualitativa";"Ordinal";
+"yr";"ano";"Qualitativa";"Ordinal";
+"mnth";"mês";"Qualitativa";"Ordinal";
+"hr";"hora";"Qualitativa";"Ordinal";
+"holiday";"se o dia é feriado ou não";"Qualitativa";"Nominal";
+"weekday";"dia da semana";"Qualitativa";"Ordinal";
+"workingday";"se o dia não é fim de semana nem feriado";"Qualitativa";"Nominal";
+"weathersit";"situação climática";"Qualitativa";"Ordinal";
+"temp";"temperatura normalizada em Celsius";"Quantitativa";"Contínua";
+"atemp";"sensação térmica normalizada em Celsius";"Quantitativa";"Contínua";
+"hum";"umidade normalizada";"Quantitativa";"Contínua";
+"windspeed";"velocidade do vento normalizada";"Quantitativa";"Contínua";
+"casual";"contagem de usuários ocasionais";"Quantitativa";"Discreta";
+"registered";"contagem de usuários registrados";"Quantitativa";"Discreta";
+"cnt";"contagem total de bicicletas alugadas";"Quantitativa";"Discreta";
